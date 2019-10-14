@@ -1,0 +1,3 @@
+Today I want to learn GIT!
+So what is GIT?
+This is FILE1
